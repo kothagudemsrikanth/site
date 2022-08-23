@@ -1,0 +1,192 @@
+{
+  "userreg": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "isActive": true
+    },
+    {
+      "name": "sree",
+      "email": "s@gmail.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "id": 2
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "4321",
+      "confirmpassword": "4321",
+      "id": 3
+    },
+    {
+      "name": "ramya",
+      "email": "ramya@gmail.com",
+      "password": "789789",
+      "confirmpassword": "789789",
+      "id": 4
+    }
+  ],
+  "siteReg": [
+    {
+      "type": "villas",
+      "name": "ABC+Homes",
+      "price": "4000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "landloan": "landloan",
+      "text": "Details",
+      "id": 1
+    },
+    {
+      "type": "villas",
+      "name": "Aparna",
+      "price": "5000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "landloan": "landloan",
+      "text": "Details",
+      "id": 2
+    },
+    {
+      "type": "apartment",
+      "name": "Lanco+Hills",
+      "price": "8000",
+      "location": "urban",
+      "regdate": "2022-08-02",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "text": "Details",
+      "id": 3
+    },
+    {
+      "type": "villas",
+      "name": "Ramky",
+      "price": "5000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "landloan": "landloan",
+      "text": "Near+Metro+Station",
+      "id": 4
+    },
+    {
+      "type": "apartment",
+      "name": "Annapurna",
+      "price": "6000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "text": "Reg",
+      "id": 5
+    },
+    {
+      "type": "apartment",
+      "name": "Radha+Krishna+Apartments",
+      "price": "5000",
+      "location": "urban",
+      "regdate": "2022-08-02",
+      "homeloan": "homeloan",
+      "landloan": "landloan",
+      "text": "Details+Reg",
+      "id": 6
+    },
+    {
+      "type": "house",
+      "name": "Aurobindo+Reality",
+      "price": "8000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "landloan": "landloan",
+      "mortagageloan": "mortagageloan",
+      "text": "Details",
+      "id": 7
+    },
+    {
+      "type": "house",
+      "name": "BR+Constructions",
+      "price": "4000",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "landloan": "landloan",
+      "text": "Details",
+      "id": 8
+    },
+    {
+      "type": "land",
+      "name": "Pragathi+green+meadows",
+      "price": "9000",
+      "location": "urban",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "landloan": "landloan",
+      "text": "Details",
+      "id": 9
+    },
+    {
+      "type": "land",
+      "name": "Ridge+Homes",
+      "price": "6500",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "landloan": "landloan",
+      "text": "Near+Metro",
+      "id": 10
+    },
+    {
+      "type": "apartment",
+      "name": "sruthi+homes",
+      "price": "6500",
+      "location": "urban",
+      "regdate": "2022-08-01",
+      "homeloan": "homeloan",
+      "personalloan": "personalloan",
+      "landloan": "landloan",
+      "mortagageloan": "mortagageloan",
+      "address": "Hitech+city",
+      "city": "Hyd",
+      "zipcode": "500021",
+      "state": "TS",
+      "country": "India",
+      "addnl_details": "Details",
+      "id": 11
+    }
+  ],
+  "customerReg": [
+    {
+      "id": 1,
+      "name": "srikanth",
+      "phone": "8686585858",
+      "address": "Hyd"
+    },
+    {
+      "name": "ramya",
+      "phone": "879546250",
+      "address": "Hyd",
+      "id": 2
+    },
+    {
+      "name": "sanjana",
+      "phone": "66985987564",
+      "address": "WRGL",
+      "id": 3
+    },
+    {
+      "name": "Raju",
+      "phone": "9869854015",
+      "address": "NZBD",
+      "id": 4
+    }
+  ]
+}

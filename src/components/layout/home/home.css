@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.homecontainer{
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #313131;
+    text-align: center;
+    /* background-color: darkslategrey; */
+    background-color: teal;
+}
+span{
+    color: #F9F9F9;
+    font-size: 30px;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}

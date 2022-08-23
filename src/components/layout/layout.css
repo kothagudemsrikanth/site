@@ -1,0 +1,57 @@
+
+body{
+    background-color: #F9F9F9;
+}
+.layoutcontainer{
+    background-color: #F3FE39;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #030313;
+    position: sticky;
+    text-align:center;
+}
+.menu{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+}
+
+.menu-item{
+    display: inline-block;
+    margin:5px; 
+    padding: 5px;  
+    cursor:pointer;
+    background-color: #F3FE39;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+/* Parent child relation css*/
+.menu-item a:hover{
+    color:#030313;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 0 #030313;
+}
+.sub-menu{
+    list-style-type:none;
+    padding:0px;
+    display:none;
+}
+.sub-menu-item{
+    background-color:#F3FE39;
+    padding:5px;
+}
+   
+.menu-item:hover .sub-menu{
+    display:block;
+}
+a{
+    color:darkblue;
+}
+table{
+    box-shadow: 0 0 5px 0 #030313;
+    border-radius: 2px;
+}
